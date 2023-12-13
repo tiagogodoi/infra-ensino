@@ -5,12 +5,14 @@ Esse estudo tem como objetivo encontrar como o investimento público em ifraestr
 
 ## Materiais
 Os dados foram obtidos através de da Secretaria da Educação do Estado de São Paulo e da Fundação SEADE.
+
 Para os dados referentes à infraestrutura de cidades, foram utilizados os seguintes índices:
 - Leitos hospitalares por município e ano
 - PIB Municipal 2020
 - Médicos e enfermeiros por Município, ano e rede de atendimento
 - População Municipal por Ano
 - Comércio Exterior por Município
+
 Os dados referentes à qualidade de ensino das escolas estaduais foram obtidos através dos seguintes índices:
 - Proficiência do Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (SARESP)
 - Índice de Desenvolvimento da Educação do Estado de São Paulo (IDESP)
