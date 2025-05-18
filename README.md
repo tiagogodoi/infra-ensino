@@ -16,8 +16,8 @@ Para os dados referentes à infraestrutura de cidades, foram utilizados os segui
 Os dados referentes à qualidade de ensino das escolas estaduais foram obtidos através dos seguintes índices:
 - Proficiência do Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (SARESP)
 - Índice de Desenvolvimento da Educação do Estado de São Paulo (IDESP)
-- Índice de Nível Socioeconômico (INSE)
 
 ## Metodologia
 Após o tratamento dos dados, é utilizado o KMeans separadamente nas massas de dados de infraestrutura e educação.
-Os K clusters obtidos através de cada massa de dados são relacionados entre si para analizar se há alguma correlação entre os diferentes índices.
+
+Em atualização...
